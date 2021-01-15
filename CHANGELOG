@@ -1,0 +1,12 @@
+2021/01/15  Iván Ruvalcaba  <ivanruvalcaba[at]disroot[dot]org>
+
+  * Initial commit.
+    + src/sum.js: Add main module file.
+    + .editorconfig: Add EditorConfig config file.
+    + .eslintrc.json: Add ESLint config file.
+    + .gitignore: Add gitignore config file.
+    + CHANGELOG: Add CHANGELOG file.
+    + LICENSE: Add LICENSE file.
+    + package.json: Add Node.js project config file.
+    + README.markdown: Add README file.
+    + javascript-sum.sublime-project: Add Sublime Text project config file.
